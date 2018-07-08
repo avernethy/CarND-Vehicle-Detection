@@ -2,7 +2,7 @@
 *.png
 *.jpg
 *.jpeg
-/non-vehicles
-/non-vehicles_smallset
-/vehicles
-/vehicles_smallset
+non-vehicles/
+non-vehicles_smallset/
+vehicles/
+vehicles_smallset/
