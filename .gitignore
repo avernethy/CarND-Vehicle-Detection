@@ -7,3 +7,6 @@ non-vehicles_smallset/
 vehicles/
 vehicles_smallset/
 test_images/
+test_videos_output/
+output_images/
+
